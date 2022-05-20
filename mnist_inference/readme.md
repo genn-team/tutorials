@@ -1,4 +1,4 @@
-# MNIST inference<
+# MNIST inference
 Perform MNIST inference by converting a pre-trained ANN to an SNN
 ## Presenting a single image
 Create a simple three layer network of integrate-and-fire neurons, densely connected with pre-trained weights. Present a single MNIST image and visualise spiking activity.

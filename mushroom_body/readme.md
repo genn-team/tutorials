@@ -1,5 +1,6 @@
 # Insect-inspired MNIST classification
 Train a model of the insect mushroom body using an STDP learning rule to classify MNIST.
+
 ## Projection Neurons
 Create the first layer of <i>Projection Neurons</i> which convert input images into a sparse temporal code.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/genn-team/tutorials/blob/master/mushroom_body/1_first_layer.ipynb)
