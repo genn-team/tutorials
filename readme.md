@@ -5,3 +5,4 @@ PyGeNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.sv
 
 Brian2GeNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/genn-team/tutorials/blob/master/brian2genn_template.ipynb)
 
+Wheel build [!Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/genn-team/tutorials/blob/master/wheel_build.ipynb)
